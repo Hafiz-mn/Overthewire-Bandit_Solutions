@@ -1,1 +1,0 @@
-# Ok so in Level 0 we start with logging in the game using "SSH"
