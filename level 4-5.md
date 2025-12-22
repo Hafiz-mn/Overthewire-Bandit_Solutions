@@ -12,5 +12,6 @@ So in this case we can use the `file` command which returns us the file type. A 
 
 And we have now got the password for the next level
 
-<img width="466" height="52" alt="level 4 to 5 sol" src="https://github.com/user-attachments/assets/a862a22b-f61b-4e50-a309-4da4ce045570" />
+<img width="462" height="56" alt="image" src="https://github.com/user-attachments/assets/2dde8914-fd28-42f9-a3ab-2fec1e2f3c17" />
+
 
