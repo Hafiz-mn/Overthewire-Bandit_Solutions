@@ -11,5 +11,6 @@ so we specify it by using `cat ./-` which tells the system to read the contents 
 
 And we have got the password for the next level.
 
-<img width="469" height="300" alt="level 2 password" src="https://github.com/user-attachments/assets/240857a5-dd60-4bea-973a-d36e6cae89fe" />
 
+
+<img width="462" height="297" alt="1-2 bluer" src="https://github.com/user-attachments/assets/6a275e2b-b62c-4f50-a20e-b5902a70ad19" />
