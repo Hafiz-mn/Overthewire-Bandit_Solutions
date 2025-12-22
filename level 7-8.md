@@ -6,4 +6,5 @@ Here the password is in the file `data.txt` and is next to the word 'millionth'
 
 By combining `cat` and `grep` we can get the password for the next level.
 
-<img width="623" height="151" alt="level 7 to 8 sol" src="https://github.com/user-attachments/assets/2125d1eb-0648-46d5-98e0-5cd4245f2be2" />
+<img width="622" height="151" alt="image" src="https://github.com/user-attachments/assets/cbce8e32-9c85-4ddf-9832-db7a857943af" />
+
