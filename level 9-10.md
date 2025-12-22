@@ -18,4 +18,5 @@ So to counter this we use `strings` command which will only return human readabl
 
 And by combining this with `grep` we get..thats right the password!!!.
 
-<img width="400" height="145" alt="level 9 to 10 sol" src="https://github.com/user-attachments/assets/d66646f5-daf7-40f6-9f83-a7a9be1338ba" />
+<img width="456" height="111" alt="image" src="https://github.com/user-attachments/assets/d506c94f-661a-4685-b9d7-27bee1d8c525" />
+
