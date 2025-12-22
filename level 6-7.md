@@ -19,5 +19,6 @@ We will hit many directories where we don’t have permission to read. so we use
 and it returns the matching files.
 <img width="977" height="47" alt="level 6 to 7 step 3" src="https://github.com/user-attachments/assets/b96224ff-107b-40cd-8c66-c533b395733b" />
 
-<img width="722" height="53" alt="level 6 to 7 sol" src="https://github.com/user-attachments/assets/bf33edfc-f48d-40f1-a1ed-7cc223221999" />
+<img width="852" height="63" alt="image" src="https://github.com/user-attachments/assets/732d3a04-bc15-4a9a-b79e-11e6a1573334" />
+
 
