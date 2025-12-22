@@ -7,7 +7,8 @@ There we just read the contents of the `readme` file using `cat` command or any 
 
 
 
-<img width="1040" height="293" alt="Level 1" src="https://github.com/user-attachments/assets/d2825265-7763-4fff-9bd0-7f8032cf41ad" />
+
+<img width="1027" height="290" alt="0 to 1 blured" src="https://github.com/user-attachments/assets/cbbb90b4-e91c-4c96-b005-429b5f6143b1" />
 
 
 
