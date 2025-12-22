@@ -16,6 +16,7 @@ But thats not the smart way.
 
 By combining `sort` and `uniq` tool we can obtain non-duplicate lines.
 
-<img width="400" height="72" alt="level 8 to 9 correct sol" src="https://github.com/user-attachments/assets/76374768-569e-4b85-8c7f-882a7a3669cf" />
+<img width="677" height="80" alt="image" src="https://github.com/user-attachments/assets/a592e5b6-8646-4f9a-8bde-4a32b8377ef5" />
+
 
 
