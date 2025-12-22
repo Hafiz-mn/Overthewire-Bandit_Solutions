@@ -25,5 +25,6 @@ We have got the file but we have yet to find its location , for that we use `fin
 
 And finally use `cat` to obtain the password
 
-<img width="855" height="52" alt="level 5 to 6 sol " src="https://github.com/user-attachments/assets/16da6ff7-fc2c-4a6a-bc69-06a51e2c378f" />
+<img width="858" height="62" alt="image" src="https://github.com/user-attachments/assets/d88c6e71-13b3-40c9-aec9-f6540defe80c" />
+
 
