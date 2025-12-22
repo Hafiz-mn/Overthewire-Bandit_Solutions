@@ -12,6 +12,7 @@ from normal view.
 So just by using `ls` command Command-shell wont show hidden files, for that we use `ls -a` where `-a` tells the Linux command-shell to list all files including the ones starting with `.`.
 
 
-<img width="838" height="71" alt="level 3 to 4 sol" src="https://github.com/user-attachments/assets/c05556c3-346d-4bb6-b07e-729de1da85bd" />
+<img width="842" height="67" alt="image" src="https://github.com/user-attachments/assets/a92859d7-692e-4cfe-84ce-d1cec5502c4f" />
+
 
 
