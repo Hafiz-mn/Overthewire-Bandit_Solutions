@@ -12,5 +12,5 @@ In Linux shell, spaces are used to seperate different command arguments, so when
 
 To deal with this filenames we need to tell the shell to treat the entire filename as one arguement by using double quotas `" "`.
 
+<img width="651" height="48" alt="image" src="https://github.com/user-attachments/assets/49d656ec-c54a-4913-9bcb-60ee1c3a0a55" />
 
-<img width="657" height="50" alt="level 2 to 3 sol" src="https://github.com/user-attachments/assets/45ff250c-b030-4a8d-afe5-4b6890fc0922" />
